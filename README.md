@@ -10,6 +10,6 @@ An ExpressionEngine plugin that allows you to check if the current user has publ
 # Returns
 - **true**: if the member has published an entry in your channel
 - **false**: if they have not
-- 
+
 # Example
 {exp:rc_published channel_id="4"}
